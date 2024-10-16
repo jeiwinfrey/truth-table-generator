@@ -76,11 +76,6 @@ Build the project from source:
 ❯ cd truth-table-generator
 ```
 
-3. Install the required dependencies:
-```sh
-❯ pip install -r requirements.txt
-```
-
 ###  Usage
 
 To run the project, execute the following command:
