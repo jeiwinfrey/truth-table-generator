@@ -3,7 +3,7 @@
 
 [<img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" align="right" width="25%" padding-right="350">]()
 
-#### <code> DISCREET STRUCTURES PROJECT</code>
+#### <code> DISCRETE STRUCTURES PROJECT</code>
 
 #####  Table of Contents
 
